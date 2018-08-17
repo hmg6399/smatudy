@@ -1,1 +1,1 @@
-# statudy
+# smatudy
